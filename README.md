@@ -43,10 +43,11 @@ Este projeto consiste em um chatbot de suporte desenvolvido em Python, utilizand
 - `fuzzywuzzy`
 - `joblib`
 
-### Melhorias:
+### Melhorias e ideias:
 
-1. ?
-2. ?
-3. ?
-4. ?
+1. criar uum menu para acessar determinados diretorios para maior desempenho 
+2. gerer um pré-processmento apra cada diretorio
+3. melhorar a forma que é gerado os dados pré-processados
+4. encontrr uma forma de gerar sua propria base de dados com base nos arquivos
+5. ler todos tipos de arquivos para gerar sua base de dados sem tratamento humano 
 
